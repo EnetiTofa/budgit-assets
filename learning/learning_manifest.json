@@ -1,14 +1,31 @@
 {
-  "lastUpdated": "2026-03-26T00:00:00.000Z",
   "modules": [
     {
-      "id": "welcome_basics_v1",
+      "id": "tutorial_welcome",
       "title": "Welcome to BudgIt",
-      "description": "Learn the core philosophy of zero-based budgeting.",
+      "description": "Learn the absolute basics of tracking your daily expenses.",
       "version": 1,
-      "downloadUrl": "https://your-cdn.com/assets/rive/welcome_basics_v1.riv",
+      "downloadUrl": "https://enetitofa.github.io/budgit-assets/learning/welcome_v1.riv",
       "order": 1,
       "xpReward": 50
+    },
+    {
+      "id": "tutorial_rollover",
+      "title": "Rollover Mastery",
+      "description": "Discover how leftover budget rolls over to the next week.",
+      "version": 1,
+      "downloadUrl": "https://enetitofa.github.io/budgit-assets/learning/welcome_v1.riv",
+      "order": 2,
+      "xpReward": 150
+    },
+    {
+      "id": "tutorial_streaks",
+      "title": "Check-In Streaks",
+      "description": "Never miss a day. Build your multiplier.",
+      "version": 1,
+      "downloadUrl": "https://enetitofa.github.io/budgit-assets/learning/welcome_v1.riv",
+      "order": 3,
+      "xpReward": 200
     }
   ]
 }
