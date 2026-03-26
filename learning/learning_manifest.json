@@ -1,15 +1,4 @@
 {
   "modules": [
-    {
-      "id": "tutorial_welcome",
-      "title": "Welcome to BudgIt",
-      "description": "Learn the basics.",
-      "version": 1,
-      "downloadUrl": "https://enetitofa.github.io/budgit-assets/learning/welcome_v1.riv",
-      "order": 1,
-      "xpReward": 50,
-      "cardColor": "FF9800", 
-      "iconName": "wallet"
-    }
   ]
 }
