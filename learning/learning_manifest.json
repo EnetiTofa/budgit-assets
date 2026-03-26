@@ -3,29 +3,13 @@
     {
       "id": "tutorial_welcome",
       "title": "Welcome to BudgIt",
-      "description": "Learn the absolute basics of tracking your daily expenses.",
+      "description": "Learn the basics.",
       "version": 1,
       "downloadUrl": "https://enetitofa.github.io/budgit-assets/learning/welcome_v1.riv",
       "order": 1,
-      "xpReward": 50
-    },
-    {
-      "id": "tutorial_rollover",
-      "title": "Rollover Mastery",
-      "description": "Discover how leftover budget rolls over to the next week.",
-      "version": 1,
-      "downloadUrl": "https://enetitofa.github.io/budgit-assets/learning/welcome_v1.riv",
-      "order": 2,
-      "xpReward": 150
-    },
-    {
-      "id": "tutorial_streaks",
-      "title": "Check-In Streaks",
-      "description": "Never miss a day. Build your multiplier.",
-      "version": 1,
-      "downloadUrl": "https://enetitofa.github.io/budgit-assets/learning/welcome_v1.riv",
-      "order": 3,
-      "xpReward": 200
+      "xpReward": 50,
+      "cardColor": "FF9800", 
+      "iconName": "wallet"
     }
   ]
 }
