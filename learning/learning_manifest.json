@@ -1,1 +1,14 @@
-
+{
+  "lastUpdated": "2026-03-26T00:00:00.000Z",
+  "modules": [
+    {
+      "id": "welcome_basics_v1",
+      "title": "Welcome to BudgIt",
+      "description": "Learn the core philosophy of zero-based budgeting.",
+      "version": 1,
+      "downloadUrl": "https://your-cdn.com/assets/rive/welcome_basics_v1.riv",
+      "order": 1,
+      "xpReward": 50
+    }
+  ]
+}
