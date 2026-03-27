@@ -12,8 +12,8 @@
     }
     {
       "id": "tutorial_receipts",
-      "title": "Magic Receipts",
-      "description": "Learn how to scan and itemize receipts instantly.",
+      "title": "Using Receipts",
+      "description": "Learn how to scan and itemise receipts instantly.",
       "version": 1,
       "order": 2,
       "xpReward": 100,
