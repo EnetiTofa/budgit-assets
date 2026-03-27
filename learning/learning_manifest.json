@@ -2,7 +2,7 @@
   "modules": [
     {
       "id": "tutorial_transfer",
-      "title": "Mastering Transferss",
+      "title": "Mastering Transfers",
       "description": "Learn how to move money between categories.",
       "version": 1,
       "order": 1,
