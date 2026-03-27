@@ -6,9 +6,9 @@
       "description": "Learn how to move money between categories.",
       "version": 1,
       "order": 1,
-      "xpReward": 75,
+      "xpReward": 25,
       "cardColor": "2196F3", 
-      "iconName": "swap"
+      "iconName": "swap_horiz_rounded"
     }
   ]
 }
