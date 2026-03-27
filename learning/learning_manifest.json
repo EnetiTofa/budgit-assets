@@ -1,14 +1,14 @@
 {
   "modules": [
     {
-      "id": "tutorial_welcome",
-      "title": "Welcome to BudgIt",
-      "description": "Learn the basics.",
+      "id": "tutorial_transfer",
+      "title": "Mastering Transfers",
+      "description": "Learn how to move money between categories.",
       "version": 1,
       "order": 1,
-      "xpReward": 50,
-      "cardColor": "FF9800", 
-      "iconName": "wallet"
+      "xpReward": 75,
+      "cardColor": "2196F3", 
+      "iconName": "swap"
     }
   ]
 }
