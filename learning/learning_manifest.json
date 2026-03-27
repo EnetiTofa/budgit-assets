@@ -2,7 +2,7 @@
   "modules": [
     {
       "id": "tutorial_transfer",
-      "title": "Mastering Transfers",
+      "title": "Mastering Transferss",
       "description": "Learn how to move money between categories.",
       "version": 1,
       "order": 1,
@@ -16,7 +16,7 @@
       "description": "Learn how to scan and itemise receipts instantly.",
       "version": 1,
       "order": 2,
-      "xpReward": 100,
+      "xpReward": 25,
       "cardColor": "9C27B0", 
       "iconName": "scan"
     }
