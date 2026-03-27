@@ -10,5 +10,16 @@
       "cardColor": "2196F3", 
       "iconName": "swap"
     }
+    {
+      "id": "tutorial_receipts",
+      "title": "Magic Receipts",
+      "description": "Learn how to scan and itemize receipts instantly.",
+      "version": 1,
+      "order": 2,
+      "xpReward": 100,
+      "cardColor": "9C27B0", 
+      "iconName": "scan"
+    }
   ]
 }
+
