@@ -19,7 +19,17 @@
       "xpReward": 20,
       "cardColor": "F44336", 
       "iconName": "scan"
-    }
+    },
+    {
+     "id": "tutorial_advanced_income",
+     "title": "Advanced Income",
+     "description": "Calculate exact take-home pay with tax and KiwiSaver.",
+     "version": 1,
+     "order": 4,
+     "xpReward": 100,
+     "cardColor": "4CAF50", 
+     "iconName": "money"
+   }
   ]
 }
 
