@@ -16,7 +16,7 @@
       "description": "Learn how to scan and itemise receipts instantly.",
       "version": 1,
       "order": 2,
-      "xpReward": 25,
+      "xpReward": 20,
       "cardColor": "F44336", 
       "iconName": "scan"
     }
